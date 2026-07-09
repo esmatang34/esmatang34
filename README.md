@@ -42,7 +42,7 @@ Birden fazla alanda çalışan bir geliştiriciyim — kod yazmayı, öğrenmeyi
 
 </div>
 
-> `KULLANICI_ADIN` yazan yerleri kendi GitHub kullanıcı adınla değiştirmen yeterli.
+
 
 ---
 
