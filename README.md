@@ -1,6 +1,6 @@
 <div align="center">
 
-# Merhaba, ben [Adın Soyadın] 👋
+# Merhaba, ben Esma Tang 👋
 
 Birden fazla alanda çalışan bir geliştiriciyim — kod yazmayı, öğrenmeyi ve yeni şeyler denemeyi seviyorum.
 
@@ -13,7 +13,7 @@ Birden fazla alanda çalışan bir geliştiriciyim — kod yazmayı, öğrenmeyi
 - 🔭 Şu anda **[üzerinde çalıştığın proje/alan]** üzerinde çalışıyorum
 - 🌱 **[öğrenmekte olduğun bir şey]** öğreniyorum
 - 💬 Şunlar hakkında konuşmaktan mutluluk duyarım: **[ilgi alanların]**
-- 📫 Bana ulaşmak için: **[email@example.com]**
+- 📫 Bana ulaşmak için:esmatang34@gmail.com
 
 ---
 
