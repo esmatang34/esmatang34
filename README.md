@@ -10,9 +10,9 @@ Birden fazla alanda çalışan bir geliştiriciyim — kod yazmayı, öğrenmeyi
 
 ### 🧑‍💻 Hakkımda
 
-- 🔭 Şu anda **[üzerinde çalıştığın proje/alan]** üzerinde çalışıyorum
-- 🌱 **[öğrenmekte olduğun bir şey]** öğreniyorum
-- 💬 Şunlar hakkında konuşmaktan mutluluk duyarım: **[ilgi alanların]**
+- 🔭 Şu anda **veritabanları** üzerinde çalışıyorum
+- 🌱 **n8n'de veritabanlarıyla iletişim kurmayı** öğreniyorum
+- 💬 Şunlar hakkında konuşmaktan mutluluk duyarım: **teknoloji,yapay zeka,oyunlar...**
 - 📫 Bana ulaşmak için:esmatang34@gmail.com
 
 ---
